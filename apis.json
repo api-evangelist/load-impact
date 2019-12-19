@@ -1,0 +1,75 @@
+{
+    "name": "Load Impact",
+    "description": "Load Impact is a cloud-based SaaS for load testing and website optimization.   We offer load testing and reporting as a service. Try it for free at www.loadimpact.com",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10197-load-impact.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "have api",
+        "integrations",
+        "load testing"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/load-impact\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Load Impact",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10197-load-impact.jpg",
+            "humanURL": "http:\/\/loadimpact.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/load-impact-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.loadimpact.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/load-impact"
+        },
+        {
+            "type": "Email",
+            "url": "20sales@loadimpact.com"
+        },
+        {
+            "type": "Email",
+            "url": "20support@loadimpact.com"
+        },
+        {
+            "type": "Email",
+            "url": "20press@loadimpact.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@loadimpact.com"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/loadimpact.com\/pricing"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/loadimpact.com\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/LoadImpact"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/loadimpact.com\/"
+        }
+    ]
+}
